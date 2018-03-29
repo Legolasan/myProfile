@@ -131,9 +131,7 @@ a.download{
 
 #content{
     padding: 20px ;
-/*    display: block;*/
     min-height: 100vh;
-/*    min-width:87%;*/
     transition:all 0.3s;
 }
 #sidebarCollapse{
@@ -147,7 +145,7 @@ a.download{
     margin: 0 auto;
     display: block;
     background: #555;
-    transition: all 0.8s cubic-bezier(0.810, -0.330, 0.345, 1.375);
+    transition: all 0.9s cubic-bezier(0.810, -0.330, 0.345, 1.375);
     transition-delay: 0.2s;
 }
 #sidebarCollapse span:first-of-type{
